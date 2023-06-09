@@ -1,4 +1,10 @@
-## Наш адрес для тестов: 37.18.110.184:3000
+### Проект для хакатона ЛТЦ2023
+## Сервис для аренды креативных площадок в Москве
+
+## Авторы 
+[Almaz Karamyshev](https://github.com/almazius) (отвечал на регистрацию, вход, админ-панель, пакет user)
+
+[Petr Vorontsov](https://github.com/Supet1337) и [Aleksey Pargasov](https://github.com/alexGrap) (пакет places)
 
 ## Connect
 указатель к бд лежит в internal/models.go -> Tools
